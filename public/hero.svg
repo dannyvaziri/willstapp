@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Abstract rural landscape">
+  <rect width="1600" height="900" fill="#244f3a"/>
+  <path d="M0 690C220 620 360 630 540 690C720 750 890 760 1100 690C1290 626 1440 620 1600 666V900H0Z" fill="#143323"/>
+  <path d="M0 560C200 490 380 500 560 575C770 662 930 646 1140 560C1320 486 1470 480 1600 522V746H0Z" fill="#c59a38" opacity=".36"/>
+  <circle cx="1270" cy="210" r="88" fill="#fffaf0" opacity=".62"/>
+  <path d="M180 385H1420" stroke="#fffaf0" stroke-width="5" opacity=".22"/>
+</svg>
